@@ -60,7 +60,7 @@ supply-chain-dashboard/
 
 ```bash
 # Clone the repo
-git clone https://github.com/kjagadish/supply-chain-dashboard.git
+git clone https://github.com/kandijagadish19/supply-chain-dashboard.git
 cd supply-chain-dashboard
 
 # Install dependencies
